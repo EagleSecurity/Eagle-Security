@@ -90,7 +90,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Imagenes/BANNER-1.jpg");
+    ,url("../Imagenes/BANNER-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -108,7 +108,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Imagenes/BANNER2.jpg");
+    ,url("../Imagenes/BANNER2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -126,7 +126,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Imagenes/BANNER3.jpg");
+    ,url("../Imagenes/BANNER3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -144,7 +144,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Imagenes/BANNER4.jpg");
+    ,url("../Imagenes/BANNER4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
